@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/RB7Gfz5/logo-page-0001.png" alt="logo-page-0001" border="0" /></a>
+<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><iframe src="https://giphy.com/embed/djJdpnHBn5KWCZ8FyS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/djJdpnHBn5KWCZ8FyS">via GIPHY</a></p>
   <br>
   Abel Nerea
   <br>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">Skills</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
