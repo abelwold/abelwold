@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><iframe src="https://giphy.com/embed/djJdpnHBn5KWCZ8FyS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/djJdpnHBn5KWCZ8FyS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/djJdpnHBn5KWCZ8FyS" width="480" height="423" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/djJdpnHBn5KWCZ8FyS">via GIPHY</a></p>
   <br>
   Abel Nerea
   <br>
