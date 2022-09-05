@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
- <a href="https://ibb.co/g4pFpkT"><img src="https://i.ibb.co/WVwpwmy/logo-page-0001.jpg" alt="logo-page-0001" border="0" /></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/RB7Gfz5/logo-page-0001.png" alt="logo-page-0001" border="0" /></a>
   <br>
-  Markdownify
+  Abel Nerea
   <br>
 </h1>
 
