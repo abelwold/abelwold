@@ -29,9 +29,8 @@ Using RMP(ratemyprofessor.com) dataset extracting useful using Train two zero-sh
 
 ## 🧔 - About
 
-- Name: Marc Duiker
 - Pronouns: he/him
-- Company email: abenerea@gmail.com
+- E-mail: abenerea@gmail.com
 - Twitter: [@AbelNereaH](https://twitter.com/AbelNereaH)
 - LinkedIn: [https://www.linkedin.com/in/abel-nerea-074240176/](https://www.linkedin.com/in/abel-nerea-074240176/)
 
