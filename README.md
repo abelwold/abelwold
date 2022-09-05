@@ -27,12 +27,6 @@ Using RMP(ratemyprofessor.com) dataset extracting useful using Train two zero-sh
 
 - Criminal Activity Recording System.
 
-## 📞 - You can contact me to
-
-- Give a presentation about **Azure Functions** / **Durable Functions** / **Creative Coding** for your conference/meetup.
-- Do the *Building a resilient workflow using Durable Functions* workshop for your org.
-- Talk about my dreamjob, to be an Azure ☁ 🥑.
-
 ## 🧔 - About
 
 - Name: Marc Duiker
