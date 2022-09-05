@@ -10,7 +10,7 @@ Hi, I'm Abel Nerea.😊
 
 ### 📝 - AML Projects
 
-In this project I tried to show how different types of ML models can be used in different datasets. 
+In this projects I tried to show how different types of ML models can be used in different datasets. 
 - Linear Regression
 - Classification logit 
 - CART
