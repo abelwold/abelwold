@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-![MOSHED-2022-9-5-16-35-32](https://user-images.githubusercontent.com/67269703/188475058-8dc320c8-0ae2-4925-9a84-f103f372d7ac.gif)
+![logo_page-0001](https://user-images.githubusercontent.com/67269703/188475191-1ea48156-2458-4a20-a799-bdf8cf71e6ad.png)
 
   <br>
   Abel Nerea
