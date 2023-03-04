@@ -10,7 +10,8 @@ Hi, I'm Abel Nerea.😊
 
 ### 📝 - AML Projects
 
-In this projects I tried to show how different types of ML models can be used in different datasets. 
+These projects aim to demonstrate the diverse applications of machine learning models across various datasets.
+
 - Linear Regression
 - Classification logit 
 - CART
@@ -20,12 +21,11 @@ In this projects I tried to show how different types of ML models can be used in
 
 ### 📝 - AML final Project
 
-Using RMP(ratemyprofessor.com) dataset extracting useful using Train two zero-shot classifications based on the given dataset
-
+By utilizing two zero-shot classification approaches, extracting favorable feedback from students regarding professors and the education system using the RMP dataset from ratemyprofessor.com.
 
 ## 👷 - Currently working on
 
-- Criminal Activity Recording System.
+- Criminal Activity Reporting and Recording System.
 
 ## 🧔 - About
 
@@ -33,5 +33,6 @@ Using RMP(ratemyprofessor.com) dataset extracting useful using Train two zero-sh
 - E-mail: abenerea@gmail.com
 - Twitter: [@AbelNereaH](https://twitter.com/AbelNereaH)
 - LinkedIn: [https://www.linkedin.com/in/abel-nerea-074240176/](https://www.linkedin.com/in/abel-nerea-074240176/)
+- WebSite: [https://abelnerea.netlify.app](https://abelnerea.netlify.app)
 
 ---
