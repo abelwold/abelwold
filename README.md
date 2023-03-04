@@ -29,7 +29,6 @@ By utilizing two zero-shot classification approaches, extracting favorable feedb
 
 ## 🧔 - About
 
-- Pronouns: he/him
 - E-mail: abenerea@gmail.com
 - Twitter: [@AbelNereaH](https://twitter.com/AbelNereaH)
 - LinkedIn: [https://www.linkedin.com/in/abel-nerea-074240176/](https://www.linkedin.com/in/abel-nerea-074240176/)
